@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "my name si srikanth"
+echo "my name srikanth"
